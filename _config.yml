@@ -4,7 +4,7 @@ email: chris.puzzo@gmail.com
 description: A place to write things about other things.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://puzzfuzz.github.io/" # the base hostname & protocol for your site
-twitter_username: @cpuzzo
+twitter_username: cpuzzo
 github_username:  puzzfuzz
 highlighter: pygments
 
