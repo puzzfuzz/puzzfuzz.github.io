@@ -32,6 +32,7 @@ All of these companies have their own spin on what it means to work there and be
 
 ##[Riot][riot_corp]
 * CEO Brandom Beck [talks][riot_talk] at length about management philosophy in the creaitve sector.
+
 > "...people trumps all."
 
 > "In order to do cool things ... it requires, sort of a shift in the mindset and in the balance of power away from the sort of stereotypical _supervisor type_ towards _creating an environment_; an environment where people who are really exceptional at their respective crafts can collaborate really effectively."
