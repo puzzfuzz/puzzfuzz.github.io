@@ -31,17 +31,17 @@ All of these companies have their own spin on what it means to work there and be
   * Transparent
 
 ##[Riot][riot_corp]
-* CEO Brandom Beck [talks][riot_talk] at length about management philosophy in the creaitve sector.
+* CEO Brandom Beck [talks][riot_talk] at length about management philosophy in the creative sector.
 
 > "...people trumps all."
 
-> "In order to do cool things ... it requires, sort of a shift in the mindset and in the balance of power away from the sort of stereotypical _supervisor type_ towards _creating an environment_; an environment where people who are really exceptional at their respective crafts can collaborate really effectively."
+> "In order to do cool things ... it requires, sort of a shift in the mindset and in the balance of power away from the sort of stereotypical **supervisor type** towards **creating an environment**; an environment where people who are really exceptional at their respective crafts can collaborate really effectively."
 
 > "Being a manager of knowledge-work requires a different mindset: rather than tasking people with a mindless portion of the overall job, managers have to become something of a support / hybrid coach / motivational leader."
 
 > "If you want to build a ship, don't drum up the men to gather wood, divide the work and give orders. **Instead teach them to yearn for the vast and endless sea**." - Antoine de Saint-Exupery, Novelist
 
-> "Some fall into the trap of thinking that the more people we grow to manage, the more pepole work for us -- and that's backwards. The more people we grow to manage, the more people (as managers) _we work for_. The more people whose success we take responsibility _for_. **That's** the role of the modern manager." 
+> "Some fall into the trap of thinking that the more people we grow to manage, the more people work for us -- and that's backwards. The more people we grow to manage, the more people (as managers) **we work for**. The more people whose success we take responsibility **for**. **That's** the role of the modern manager." 
 
 > "If you give a good idea to a mediocre team, they will screw it up. But give a mediocre idea to a great team, they will either fix it or come up with something better. **That's why people matter.**" - Ed Catmull, President & Co-founder of Pixar
 
