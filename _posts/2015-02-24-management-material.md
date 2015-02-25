@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Management Material"
-date:   2015-02-23 16:39:30
+date:   2015-02-24 16:39:30
 categories: mangement
 ---
 
