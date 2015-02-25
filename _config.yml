@@ -1,11 +1,10 @@
 # Site settings
-title: ChrisP Software - Adding Texture to Every Byte
+title: Puzzo on Software
 email: chris.puzzo@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A place to write things about other things.
+description: A place to write things about other things.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
+url: "http://puzzfuzz.github.io/" # the base hostname & protocol for your site
+twitter_username: @cpuzzo
 github_username:  puzzfuzz
 highlighter: pygments
 
