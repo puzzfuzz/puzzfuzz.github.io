@@ -10,7 +10,7 @@ categories: mangement
 
 #Netflix 
 * [culture deck][netflix] heavily emphasizes "Freedom & Responsibility"
-** "Lets create a company what will be a great place to be _from_."
+  * "Lets create a company what will be a great place to be _from_."
 
 #Riot 
 * CEO Brandom Beck [talks][riot] at length about management philosophy in the creaitve sector. Summary: "...people trumps all."
