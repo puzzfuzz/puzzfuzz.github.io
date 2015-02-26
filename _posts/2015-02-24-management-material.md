@@ -54,7 +54,7 @@ All of these companies have their own spin on what it means to work there and be
   * "100% Predictability == 0% Innovation"
   * "You are the culture. Model the behavior you want to see."
 
-![autonomy][assets/alignmentXautonomy.jpg]
+![autonomy](assets/alignmentXautonomy.jpg)
 
 [hubspot_corp]:		http://www.hubspot.com/
 [hubspot_deck]:		http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx
