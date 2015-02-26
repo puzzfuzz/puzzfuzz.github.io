@@ -5,6 +5,8 @@ date:   2015-02-24 16:39:30
 categories: management
 ---
 
+WORK IN PROGRESS - Management and Organizational Theories of Fantastically Successful Software Companies
+
 TODO: Intro 
 
 * [Netflix][netflix_deck] sees themselves as a pro sports team who expects nothing but excellence from every roster slot and hire, develop, and cut smartly so they have stars in every position. 
@@ -22,6 +24,7 @@ All of these companies have their own spin on what it means to work there and be
 
 ##[Netflix][netflix_corp]
 [Netflix Culture: Freedom & Responsibility][netflix_deck] 
+
 - We Seek Excellence
 - Actual company values shown by who gets _rewarded_, _promoted_ or _let go_
 - Actual company values are the _behaviors_ and _skills_ that are _valued_ in fellow employees
@@ -49,6 +52,32 @@ All of these companies have their own spin on what it means to work there and be
 - Insistence on performance because, in procedural work, the best are **2x** better than the average, but in creative work, the best are **10x** better than the average. 
 - The Rare Responsible Person is: self motivating, self aware, self disciplined, self improving, acts like a leader, doesn't wait to be told what to do, picks up the trash lying on the floor
 - Responsible people **thrive** on freedom and are **worthy** of freedom
+
+Why companies impose process as they grow
+![netflix chaos](/assets/netflix_chaos.jpg)
+
+- Growth naturally causes complexity, but often shrinks talent density as need to "staff up quickly" erodes traditional hiring practices
+- Process emerges to coral chaos, providing seductive near-term order
+- Process optimizes practices for existing market and customers
+- Process drives out "curious innovator-mavericks", driving talent density even lower
+- **Then market shifts...**
+- Low talent density and lack of innovators prevent company from adapting quick enough
+- Company grinds painfully into irrelevance
+
+How to avoid the **Process Solution**: 
+![netflix growth](/assets/netflix_chaos_free.jpg)
+
+How to: Retain talent density
+- Offer top-of-market compensation
+- Attract high-value people through freedom to make big impact
+- Be demanding about high performance culture
+
+How to: Minimize complexity growth
+- Few big products vs. many small ones
+- Eliminate distracting complexity
+- Be wary of efficiency optimizations that increase complexity and rigidity
+
+> Sometimes long-term simplicity is achieved only through bursts of complexity to rework current systems
 
 
 ##[HubSpot][hubspot_corp]
