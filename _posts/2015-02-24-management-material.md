@@ -7,9 +7,12 @@ categories: management
 
 TODO: Intro 
 
-[Netflix][netflix_deck] sees themselves as a pro sports team who expects nothing but excellence from every roster slot and hire, develop, and cut smartly so they have stars in every position. [Hubspot][hubspot_deck] focuses on "building a company we love" and enabling autonomy by building a culture of trust and hiring only those that strictly meet their core values (**HEART**). [Spotify][spotify_talk_1] [strives][spotify_talk_2] to innovate rapidly by establishing a "Fail-friendly environment" where the focus is on enabling failure recovery instead of prescribing failure avoidance. Riot Games seeks to establish _people_ as a fundamental asset that is discussed in the boardroom alongside IP and business models while growing a culture of like-minded professionals whose personal passions are as deeply aligned as their work ethic.
+* [Netflix][netflix_deck] sees themselves as a pro sports team who expects nothing but excellence from every roster slot and hire, develop, and cut smartly so they have stars in every position. 
+* [Hubspot][hubspot_deck] focuses on "building a company we love" and enabling autonomy by building a culture of trust and hiring only those that strictly meet their core values (**HEART**). 
+* [Spotify][spotify_talk_1] [strives][spotify_talk_2] to innovate rapidly by establishing a "Fail-Friendly Environment" where the focus is on _enabling failure recovery_ instead of _prescribing failure avoidance_. 
+* Riot Games [seeks][riot_talk] to establish _people_ as a fundamental asset that is discussed in the boardroom alongside IP and business models while growing a culture of like-minded professionals whose personal passions are as deeply aligned as their work ethic.
 
-All of these companies have their own spin on what it means to work there and be a member of their culture but some very interesting commonalities emerged. The single most important take-away is simply: 
+All of these companies have their own spin on what it means to work there and be a "member of their tribe" but some very interesting commonalities emerged. The single most important take-away is simply: 
 
 > Culture happens, planned or not.
 
@@ -50,6 +53,7 @@ All of these companies have their own spin on what it means to work there and be
   * "Innovation > Predictability"
   * "100% Predictability == 0% Innovation"
   * "You are the culture. Model the behavior you want to see."
+ ![autonomy][/assets/alignmentXautonomy.jpg]
 
 [hubspot_corp]:		http://www.hubspot.com/
 [hubspot_deck]:		http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx
