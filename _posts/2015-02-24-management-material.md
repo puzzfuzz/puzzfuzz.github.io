@@ -21,8 +21,35 @@ All of these companies have their own spin on what it means to work there and be
 #Notable quotes and points
 
 ##[Netflix][netflix_corp]
-* [culture deck][netflix_deck] heavily emphasizes "Freedom & Responsibility"
-  * "Lets create a company what will be a great place to be _from_."
+[Netflix Culture: Freedom & Responsibility][netflix_deck] 
+- We Seek Excellence
+- Actual company values shown by who gets _rewarded_, _promoted_ or _let go_
+- Actual company values are the _behaviors_ and _skills_ that are _valued_ in fellow employees
+  - Judgement, Communication, Impact, Curiosity, Innovation, Courage, Passion, Honesty, Selflessness
+- Great workplace === stunning colleagues, not lush benefits, catered lunches, etc.
+
+> Adequate performance gets a generous severance package
+
+- We're a _team_, not a family. We're like a **pro sports team** not a kid's recreational team.
+
+> The Managers' **Keeper Test**
+> - Which of my people, if they told me were leaving for a similar job at a peer company, would i fight hard to keep at Netflix? 
+> - The others people should get a generous severance now, so we can open a slot to try to find a star for that role
+
+- However, corporate team roster is fluid (unlike sports team) so internal "cutthroat" or "sink or swim" behavior is rare and not tolerated
+- Loyalty is Good as a stabilizer
+  - People who have been stars, and hit a bad patch, get a near-term pass because they can be stars again
+  - They expect he same: if Netflix hits a _temporary_ bad patch, people should stick it out
+  - But unlimited loyalty to a shrinking firm, or to an ineffective employee, is not what we are about
+  
+> Sustained B-level performance, despite "A for effort", generates a generous severance package, with respect
+> Sustained A-level performance, despite minimal effort, is rewarded with more responsibility and great pay
+
+- **Brilliant Jerks** are not tolerated because cost to effective teamwork is too high.
+- Insistence on performance because, in procedural work, the best are **2x** better than the average, but in creative work, the best are **10x** better than the average. 
+- The Rare Responsible Person is: self motivating, self aware, self disciplined, self improving, acts like a leader, doesn't wait to be told what to do, picks up the trash lying on the floor
+- Responsible people **thrive** on freedom and are **worthy** of freedom
+
 
 ##[HubSpot][hubspot_corp]
 * [culture deck][hubspot_deck] focuses on "Creating a Company We Love"
