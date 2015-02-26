@@ -3,7 +3,6 @@ layout: post
 title: "Management Material"
 date: 2015-02-14 16:39:30
 categories: management
-published: true
 ---
 
 TODO: Intro 
