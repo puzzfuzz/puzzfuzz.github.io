@@ -202,10 +202,13 @@ Corporate culture: **Highly Aligned, Loosely Coupled**
 > "If you give a good idea to a mediocre team, they will screw it up. But give a mediocre idea to a great team, they will either fix it or come up with something better. **That's why people matter.**" - Ed Catmull, President & Co-founder of Pixar
 
 ##[Spotify][spotify_corp]
-* Engineering culture [part 1][spotify_talk_1], and [part 2][spotify_talk_2]
-  * "Innovation > Predictability"
-  * "100% Predictability == 0% Innovation"
-  * "You are the culture. Model the behavior you want to see."
+Engineering culture [part 1][spotify_talk_1], and [part 2][spotify_talk_2]
+
+> We aim to make mistakes faster than anyone else. - Daniel Ek, Spotify CEO & Founder 
+
+  - "Innovation > Predictability"
+  - "100% Predictability == 0% Innovation"
+  - "You are the culture. Model the behavior you want to see."
 
 ![autonomy](/assets/alignmentXautonomy.jpg)
 
