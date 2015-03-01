@@ -24,7 +24,7 @@ All of these companies have their own spin on what it means to work there and be
 
 ##[Netflix][netflix_corp]
 [Netflix Culture: Freedom & Responsibility][netflix_deck] 
-
+[Notes][netflix_post]
 
 
 ##[HubSpot][hubspot_corp]
@@ -66,6 +66,7 @@ Engineering culture [part 1][spotify_talk_1], and [part 2][spotify_talk_2]
 [hubspot_deck]:		http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx
 [netflix_corp]:		http://www.netflix.com/
 [netflix_deck]:		http://www.slideshare.net/reed2001/culture-1798664
+[netflix_post]:		/netflix_culture/
 [riot_corp]:		http://www.riotgames.com/
 [riot_talk]: 		https://www.youtube.com/watch?feature=player_embedded&v=6PxxExsVA_Y
 [spotify_corp]:		https://www.spotify.com/us/
