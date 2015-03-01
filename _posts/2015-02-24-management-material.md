@@ -23,8 +23,8 @@ All of these companies have their own spin on what it means to work there and be
 #Notable quotes and points
 
 ##[Netflix][netflix_corp]
-[Netflix Culture: Freedom & Responsibility][netflix_deck] 
-[Notes][netflix_post]
+- [Netflix Culture: Freedom & Responsibility][netflix_deck] 
+- [Notes][netflix_post]
 
 
 ##[HubSpot][hubspot_corp]
