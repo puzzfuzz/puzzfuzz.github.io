@@ -84,9 +84,9 @@ There's a ton of awesome material in the Netflix deck but the key take-aways can
 
 ##Collected Notes
 
-[The Deck][netflix_deck]
+Below are my raw notes taken while studying the Netflix culture deck. There's a bunch of great quotes peppered throughout and is probably a bit quicker of a read than the whole deck if you're crunched for time (though not much).
 
-Below are my raw notes taken while studying this deck. There's a bunch of great quotes peppered throughout and is probably a bit quicker of a read than the whole deck if you're crunched for time (though not much).
+[The Deck][netflix_deck]
 
 **Values are what we Value**
 
