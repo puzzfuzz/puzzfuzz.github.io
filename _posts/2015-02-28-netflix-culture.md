@@ -10,6 +10,8 @@ permalink: netflix_culture
 
 Way back in 2009 [Netflix][netflix_corp] published a [slide deck][netflix_deck] detailing the inner workings of their corporate culture. In it, they discuss many aspects of what it means to work at Netflix -- everything from management and organizational theory to employee mindset and compensation. I've tried to summarize some of the key thoughts from it but the entire deck is definitely worth a read.
 
+<a class="tldr" href="#tldr">TL;DR</a>
+
 ##Freedom & Responsibility
 
 > **We Seek Excellence**. 
@@ -29,6 +31,7 @@ hoc communication in lieu of formal approval and sign off in triplicate. This en
 Netflix sees themselves as a professional sports team whose leadership hires, develops, and cuts smartly so they have **stars in every position**. By constantly refining their team to ensure they employ the best of the best they are able to **increase their talent density** over time. Performance is measured solely by production, not how many hours worked or time spent in the office. 
 
 > Sustained B-level performance, despite "A for effort", generates a generous severance package, with respect.
+
 > Sustained A-level performance, despite minimal effort, is rewarded with more responsibility and great pay.
 
 Loyalty is seen as a stabilizer -- Netflix is loyal to employees with occasional bad patches as it is expected that employees would be loyal to Netflix for the same. Hard work is seen as irrelevant -- results are king. Brilliant jerks are not tolerated -- cost to effective teamwork far outweighs individual production.
@@ -48,6 +51,24 @@ Preservation of freedom is paramount in retaining the best talent, but how how d
 
 
 By ensuring a steady talent growth which outpaces business growth, responsible individuals are able to cope with complexity naturally. A key to this, however, is to **minimize complexity growth** by focusing on many small products instead of a monolithic architecture. Distracting complexity is eliminated and "efficiency optimizations" which **increase rigidity** are avoided.
+
+Process is necessary to prevent irrevocable disaster and moral, legal, and financial issues, but that's it. Netflix is in the business of streaming entertainment, not nuclear power or medicine. Process to **prevent** errors is unnecessary; **rapid recovery** is the right model. 
+
+>Just fix problems quickly. **High performers make very few errors.**
+
+#Context, not Control
+
+> If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead teach them to yearn for the vast and endless sea. - Antoine de Saint-Exupery, Author of **The Little Prince**
+
+
+
+#TL;DR 
+<a id="tldr" href=""></a>
+
+- High performance people enable a company to be successful. 
+- As a company grows, minimize rules to retain high performance people.
+- Inhibit chaos with _even more_ high performance people
+- Flexibility is more important than efficiency in the long term. 
 
 ---
 
