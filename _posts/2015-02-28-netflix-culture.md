@@ -8,17 +8,50 @@ permalink: netflix_culture
 
 #Netflix Culture
 
-Way back in 2009 [Netflix][netflix_corp] published a [slide deck][netflix_deck] detailing the inner workings of their corporate culture. In it, they discuss many aspects of what it means to work at Netflix -- everything from management and organizational theory to employee mindset and compensation. 
+Way back in 2009 [Netflix][netflix_corp] published a [slide deck][netflix_deck] detailing the inner workings of their corporate culture. In it, they discuss many aspects of what it means to work at Netflix -- everything from management and organizational theory to employee mindset and compensation. I've tried to summarize some of the key thoughts from it but the entire deck is definitely worth a read.
 
 ##Freedom & Responsibility
 
-The central idea of their ethos is that a great workplace is defined by **stunning colleagues** (as opposed to lush benefits and free sushi lunches). Being demanding with expectations of employees has enabled Netflix to build an organization that embraces individual freedom while creating a highly-complex product stack without the need for excess process, wasting roster slots on support staff, or devolving into chaos.
+> **We Seek Excellence**
+> Our culture focuses on helping us achieve excellence
 
-Netflix prioritizes excellence and performance in their employees when hiring, demanding that candidates are as responsible and good-natured as they are innovative (including a strict **no brilliant jerks** policy). By doing so, this enables a management philosophy of context-driven autonomy wherein employees are given the freedom and responsibility to exercise their own judgment over day-to-day activities. 
+The central idea of the Netflix ethos is that a great workplace is defined by **stunning colleagues** (as opposed to lush benefits and free sushi lunches). Being demanding with expectations of employees has enabled Netflix to build an organization that embraces individual freedom while creating a highly-complex product stack without the need for excess process, wasting roster slots on support staff, or devolving into chaos.
 
-A [highly-aligned, loosely coupled][slide_93] model for corporate teamwork has management setting clear goals and over-arching strategy while allowing individual teams to come up with their own tactics for execution. Guarantee of employee excellence facilitates **trust between groups** allowing for ad-hoc communication in lieu of formal approval and sign off in triplicate. This enables small groups to execute exceptionally fast. 
+Netflix prioritizes excellence and performance in their employees when hiring, demanding that candidates are as responsible and good-natured as they are innovative (including a strict **no brilliant jerks** policy). By doing so, this enables a management philosophy of **context-driven autonomy** wherein employees are given the freedom and responsibility to exercise their own judgment over day-to-day activities. 
 
-##Detailed Summary
+A [highly-aligned, loosely coupled][slide_93] model for corporate teamwork has management setting clear goals and over-arching strategy while allowing individual teams to come up with their own tactics for execution. Guarantee of employee excellence facilitates **trust between groups** allowing for ad-
+hoc communication in lieu of formal approval and sign off in triplicate. This enables small groups to execute exceptionally fast. 
+
+##A Team, Not a Family
+
+> Adequate performance gets a generous severance package
+
+Netflix sees themselves as a professional sports team whose leadership hires, develops, and cuts smartly so they have **stars in every position**. By constantly refining their team to ensure they employ the best of the best they are able to **increase their talent density** over time. Performance is measured solely by production, not how many hours worked or time spent in the office. 
+
+> Sustained B-level performance, despite "A for effort", generates a generous severance package, with respect.
+> Sustained A-level performance, despite minimal effort, is rewarded with more responsibility and great pay.
+
+Loyalty is seen as a stabilizer -- Netflix is loyal to employees with occasional bad patches as it expected that employees would be loyal to Netflix for the same. Hard work is seen as irrelevant -- results are king. Brilliant jerks are not tolerated -- cost to effective teamwork far outweighs individual production.
+
+Talent is retained with aggressive compensation reevaluated yearly and adjusted to position-based top-of-market so there is no incentive to leave for another company simply for a higher paycheck -- it doesn't exist. Talent retention is also self-fulfilling as Netflix's culture is based around excellence of colleagues so those they hire are those that *want* to work with great people; keeping great people around keeps other great people around. 
+
+##The Rare Responsible Person
+
+Responsible people **thrive** on freedom and are **worth** of freedom. The _Rare Responsible Person_ is: self motivating, self aware, self disciplined, self improving, acts like a leader, doesn't wait to be told what to do, picks up the trash lying on the floor. Imposing process restricts the freedom of responsible people, causing stress, unhappiness, and eventual exodus. 
+
+Preservation of freedom is paramount in retaining the best talent, but how how do you retain freedom as the company grows and the product becomes increasingly more complex? 
+
+![netflix chaos](/assets/netflix_chaos.jpg)
+
+It comes back to **talent density**. 
+
+![netflix growth](/assets/netflix_chaos_free.jpg) 
+
+By ensuring a steady talent growth which outpaces business growth, responsible individuals are able to cope with complexity naturally. A key to this, however, is to **minimize complexity growth** by focusing on many small products instead of a monolithic architecture. Distracting complexity is eliminated and "efficiency optimizations" which **increase rigidity** are avoided.
+
+---
+
+##Collected Notes
 
 **Values are what we Value**
 
@@ -177,4 +210,6 @@ Corporate culture: **Highly Aligned, Loosely Coupled**
 
 [netflix_corp]:		http://www.netflix.com/
 [netflix_deck]:		http://www.slideshare.net/reed2001/culture-1798664
+[slide_48]:			http://image.slidesharecdn.com/culture9-090801103430-phpapp02/95/culture-48-638.jpg?cb=1414249623
+[slide_55]:			http://image.slidesharecdn.com/culture9-090801103430-phpapp02/95/culture-55-638.jpg?cb=1414249623
 [slide_93]:			http://image.slidesharecdn.com/culture9-090801103430-phpapp02/95/culture-93-638.jpg?cb=1414249623
