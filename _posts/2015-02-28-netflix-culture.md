@@ -44,6 +44,7 @@ Preservation of freedom is paramount in retaining the best talent, but how how d
 | Problem | Solution |
 | ------- | -------- |
 | ![netflix chaos](/assets/netflix_chaos.jpg) | ![netflix growth](/assets/netflix_chaos_free.jpg) |
+| | |
 
 
 By ensuring a steady talent growth which outpaces business growth, responsible individuals are able to cope with complexity naturally. A key to this, however, is to **minimize complexity growth** by focusing on many small products instead of a monolithic architecture. Distracting complexity is eliminated and "efficiency optimizations" which **increase rigidity** are avoided.
