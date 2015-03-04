@@ -66,6 +66,7 @@ The Netflix manager's responsibility is to provide insight and understanding to 
 
 
 <a id="tldr" href=""></a>
+
 #TL;DR 
 
 There's a ton of awesome material in the Netflix deck but the key take-aways can be summarized into a few important bullets.
