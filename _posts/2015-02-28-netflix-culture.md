@@ -6,9 +6,11 @@ categories: management
 permalink: netflix_culture
 ---
 
-#Netflix Culture - Freedom & Responsibility
+#Netflix Culture
 
 Way back in 2009 [Netflix][netflix_corp] published a [slide deck][netflix_deck] detailing the inner workings of their corporate culture. In it, they discuss many aspects of what it means to work at Netflix -- everything from management and organizational theory to employee mindset and compensation. 
+
+##Freedom & Responsibility
 
 The central idea of their ethos is that a great workplace is defined by **stunning colleagues** (as opposed to lush benefits and free sushi lunches). Being demanding with expectations of employees has enabled Netflix to build an organization that embraces individual freedom while creating a highly-complex product stack without the need for excess process, wasting roster slots on support staff, or devolving into chaos.
 
@@ -16,7 +18,7 @@ Netflix prioritizes excellence and performance in their employees when hiring, d
 
 A [highly-aligned, loosely coupled][slide_93] model for corporate teamwork has management setting clear goals and over-arching strategy while allowing individual teams to come up with their own tactics for execution. Guarantee of employee excellence facilitates **trust between groups** allowing for ad-hoc communication in lieu of formal approval and sign off in triplicate. This enables small groups to execute exceptionally fast. 
 
-
+##Detailed Summary
 
 **Values are what we Value**
 
