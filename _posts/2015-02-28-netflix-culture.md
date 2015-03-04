@@ -28,13 +28,13 @@ hoc communication in lieu of formal approval and sign off in triplicate. This en
 
 > Adequate performance gets a generous severance package
 
-Netflix sees themselves as a professional sports team whose leadership hires, develops, and cuts smartly so they have **stars in every position**. By constantly refining their team to ensure they employ the best of the best they are able to **increase their talent density** over time. Performance is measured solely by production, not how many hours worked or time spent in the office. 
+Netflix sees themselves as a professional sports team whose leadership hires, develops, and cuts smartly so they have **stars in every position**. By constantly refining their team to ensure they employ the best-of-the-best they are able to **increase their talent density** over time. Performance is measured solely by production, not how many hours worked or time spent in the office. 
 
 > Sustained B-level performance, despite "A for effort", generates a generous severance package, with respect.
 
 > Sustained A-level performance, despite minimal effort, is rewarded with more responsibility and great pay.
 
-Loyalty is seen as a stabilizer -- Netflix is loyal to employees with occasional bad patches as it is expected that employees would be loyal to Netflix for the same. Hard work is seen as irrelevant -- results are king. Brilliant jerks are not tolerated -- cost to effective teamwork far outweighs individual production.
+**Loyalty** is seen as a stabilizer -- Netflix is loyal to employees with occasional bad patches as it is expected that employees would be loyal to Netflix for the same. **Hard work** is seen as irrelevant -- results are king. **Brilliant jerks** are not tolerated -- cost to effective teamwork far outweighs individual production.
 
 Talent is retained with aggressive compensation reevaluated yearly and adjusted to **position-based top-of-market** so there is no incentive to leave for another company simply for a higher paycheck -- it doesn't exist. Talent retention is also self-fulfilling as Netflix's culture is based around excellence of colleagues so they only hire those that *want* to work with great people and keeping great people around keeps other great people around. 
 
@@ -56,6 +56,8 @@ Process is necessary to prevent irrevocable disaster and moral, legal, and finan
 
 >Just fix problems quickly. **High performers make very few errors.**
 
+**Good** process helps talented people get more done. **Bad** process tries to prevent recoverable mistakes. 
+
 #Context, not Control
 
 > If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead teach them to yearn for the vast and endless sea. - Antoine de Saint-Exupery, Author of **The Little Prince**
@@ -72,17 +74,17 @@ The Netflix manager's responsibility is to provide insight and understanding to 
 There's a ton of awesome material in the Netflix deck but the key take-aways can be summarized into a few important bullets.
 
 - High performance people enable a company to be successful. 
-- The best people deserve the best pay, the most freedom and responsibility, but are expected to perform exceptionally or will be replaced.
+- The best people deserve the best pay, the most freedom, and responsibility, but are expected to perform exceptionally or will be replaced.
 - As a company grows, minimize rules to retain high performance people.
 - Inhibit chaos with _even more_ high performance people
 - Flexibility is more important than efficiency in the long term. 
-- Management through context, not control, allows an organization to be big and fast and flexible. 
+- Management through context, not control, allows an organization to be **big and fast and flexible**. 
 
 ---
 
 ##Collected Notes
 
-Below are my raw notes taken while studying this deck. There's a bunch of great quotes peppered throughout and is probably a bit quicker of a read than the whole deck (though not much).
+Below are my raw notes taken while studying this deck. There's a bunch of great quotes peppered throughout and is probably a bit quicker of a read than the whole deck if you're crunched for time (though not much).
 
 **Values are what we Value**
 
@@ -105,7 +107,7 @@ Below are my raw notes taken while studying this deck. There's a bunch of great 
 - However, corporate team roster is fluid (unlike sports team) so internal "cutthroat" or "sink or swim" behavior is rare and not tolerated
 - Loyalty is Good as a stabilizer
   - People who have been stars, and hit a bad patch, get a near-term pass because they can be stars again
-  - They expect he same: if Netflix hits a _temporary_ bad patch, people should stick it out
+  - They expect the same: if Netflix hits a _temporary_ bad patch, people should stick it out
   - But unlimited loyalty to a shrinking firm, or to an ineffective employee, is not what we are about
   
 > Sustained B-level performance, despite "A for effort", generates a generous severance package, with respect
@@ -161,8 +163,7 @@ How to avoid the **Process Solution**:
   - Get 10 people to interview each candidate
 
 - Spending, vacation, etc. policy simply:
-
-> Act in Netflix's Best Interest
+  - > Act in Netflix's Best Interest
 
 **Context, Not Control** 
 
@@ -173,6 +174,7 @@ Strategy, metrics, assumptions, objectives, clearly-defined roles, knowledge of 
 Top-down decision-making, management approval, committees, planning and process valued more than results
 
 **Good Context**
+
 - Link to company / functional goals
 - Relative priority
   - Critical (needs to happen now), or ...
@@ -217,6 +219,7 @@ One outstanding employee gets more done and costs less than two adequate employe
   - Sports teams with losing records still pay talent market rate **to get back to winning**
 
 **Bad Compensation Practices**
+
 - Manager sets pay to Nth percentile of title-linked compensation data
   - not all "Major League Pitchers" are equally good
 - Manager cares about internal parity instead of external market value
