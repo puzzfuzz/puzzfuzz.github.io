@@ -60,19 +60,28 @@ Process is necessary to prevent irrevocable disaster and moral, legal, and finan
 
 > If you want to build a ship, don't drum up the people to gather wood, divide the work, and give orders. Instead teach them to yearn for the vast and endless sea. - Antoine de Saint-Exupery, Author of **The Little Prince**
 
+The Netflix manager's responsibility is to provide insight and understanding to enable sound decision-making, not to impose top-down decisions or necessitate layers of approval. Context is achieved through clearly-defined strategy, metrics, assumptions and objectives. Clearly-defined roles help people make the best decision for them and others that depend on them, while transparency around decision-making makes sure everyone knows the stakes of the particular project they are involved in. Failure on the part of an employee is often seen as failure to set context on the part of the manager. 
+
+> The best managers figure out how to get great outcomes by setting the appropriate context, rather than by trying to control their people. 
 
 
-#TL;DR 
 <a id="tldr" href=""></a>
+#TL;DR 
+
+There's a ton of awesome material in the Netflix deck but the key take-aways can be summarized into a few important bullets.
 
 - High performance people enable a company to be successful. 
+- The best people deserve the best pay, the most freedom and responsibility, but are expected to perform exceptionally or will be replaced.
 - As a company grows, minimize rules to retain high performance people.
 - Inhibit chaos with _even more_ high performance people
 - Flexibility is more important than efficiency in the long term. 
+- Management through context, not control, allows an organization to be big and fast and flexible. 
 
 ---
 
 ##Collected Notes
+
+Below are my raw notes taken while studying this deck. There's a bunch of great quotes peppered throughout and is probably a bit quicker of a read than the whole deck (though not much).
 
 **Values are what we Value**
 
@@ -192,6 +201,8 @@ Corporate culture: **Highly Aligned, Loosely Coupled**
 - Goal is to be **Big** and **Fast** and **Flexible**
 
 **Top-of-market pay attracts and retains top-of-market people**
+
+One outstanding employee gets more done and costs less than two adequate employees.
 
 - Goal is to keep each employee at top of market _for that person_
   - Pay them more than anyone else likely would
