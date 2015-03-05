@@ -28,11 +28,41 @@ The days of pensions, 9-5, and 30 year tenure are long gone. Today's creative-in
 
 HubSpot embraces a clear and succinct mission statement which helps to keep everyone on the same page: transform how organizations attract, engage and delight their customers by **making the world inbound**. In doing so, they set a clear vision that allows everyone in the organization make decisions and track success against the same goal. 
 
-If there's ever a question about how to approach a problem, the answer is simply **solve for the customer** in a way that will both delight them and lead to their success. If that's not enough, try both and measure the results. Debates should be won by better data, not bigger job titles. 
+If there's ever a question about how to approach a problem, the answer is simply **solve for the customer** in a way that will both delight them and lead to their success. If that's not enough, try both and measure the results. Debates are won by better data, not bigger job titles. 
 
+##Transparency
 
+> Today power is gained by **sharing knowledge** not hoarding it.
 
+HubSpot believes that hiding information from its employees serves no real purpose other than to give them **less context** in which to make important decisions. Being unrelentingly transparent **supports smarter behavior and better decisions**. Everything from full company financial (excluding individual compensation of course) and burn-rate to board and management meeting slide decks is openly accessible and aggressively updated on the company wiki. 
 
+**Strategic** topics are openly discussed with a strict **no door** policy when it comes to accessibility of people in the company. In an attempt to circumvent needless politics, most of the organization undergoes a quarterly **seating hack** where office assignments are shuffled semi-randomly. This enforces a mindset of openness and flexibility in the most physical of ways.
+
+##HEART
+
+HubSpot touts themselves as **unreasonably picky** about their hires -- with a culture of **autonomy** and **transparency**, they can't afford not to be. Quality of staff enables trust that employees don't need elaborate policies and procedures and will instead simply **use good judgment** on just about everything. 
+
+> Cheat sheet on good judgment: **customer > company > self**
+
+In the end, **results** are all that matters. Not hours worked, where the work was done, or how much vacation was taken. Ensuring that people will exercise good judgment and can be trusted to produce is what most of the hiring process is devoted to. HubSpot has defined five key attributes that it values in people above all else: 
+
+- **H**umble: Self-aware and respectful.
+- **E**ffective: Gets stuff done, measurably moves the needle, immeasurably adds value.
+- **A**daptable: Curious and constantly changing -- a life-long learner.
+- **R**emarkable: Worthy of being remarked upon; has a super-power that makes them stand out in some way.
+- **T**ransparent: Open and honest with others and with themselves.
+
+> We don't just believe in these values. **We bet on them.** We recruit, reward and release people based on these values.
+
+> Compromising on culture is mortgaging the future. It's reasonable to want to hire for skills and experience when the need for help is painfully acute. It's reasonable. But, it's also wrong. The interest rate on culture debt is crushingly high.
+
+Similar to Netflix, HubSpot sees themselves as a sports team who hires and cuts to ensure they have stars in ever position. Every new hire should elevate the group and raise the average, not just be another body to delegate work to that you don't have time for.
+
+##Investing in Individual Market Value
+
+> With great people comes great responsibility.
+
+Employees should be as successful as their company and the company should be as proud of the **people** they build as they are of the **product**. To that end, HubSpot invests heavily in personal growth by holding frequent informational sessions lead by industry experts and free books and other educational resources. Alumni are honored and regular meetup events are held where startup pitches are reviewed, advice given and general camaraderie is shared.
 
 
 
