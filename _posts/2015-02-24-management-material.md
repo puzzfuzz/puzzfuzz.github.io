@@ -23,11 +23,13 @@ All of these companies have their own spin on what it means to work there and be
 #Notable quotes and points
 
 ##[Netflix][netflix_corp]
+
 - [Netflix Culture: Freedom & Responsibility][netflix_deck] 
 - [Notes][netflix_post]
 
 
 ##[HubSpot][hubspot_corp]
+
 * [culture deck][hubspot_deck] focuses on "Creating a Company We Love"
 * HEART
   * Humble
@@ -37,6 +39,7 @@ All of these companies have their own spin on what it means to work there and be
   * Transparent
 
 ##[Riot][riot_corp]
+
 * CEO Brandom Beck [talks][riot_talk] at length about management philosophy in the creative sector.
 
 > "...people trumps all."
@@ -63,7 +66,7 @@ Engineering culture [part 1][spotify_talk_1], and [part 2][spotify_talk_2]
 ![autonomy](/assets/alignmentXautonomy.jpg)
 
 [hubspot_corp]:		http://www.hubspot.com/
-[hubspot_deck]:		http://blog.hubspot.com/blog/tabid/6307/bid/34234/The-HubSpot-Culture-Code-Creating-a-Company-We-Love.aspx
+[hubspot_deck]:		http://www.slideshare.net/HubSpot/the-hubspot-culture-code-creating-a-company-we-love
 [netflix_corp]:		http://www.netflix.com/
 [netflix_deck]:		http://www.slideshare.net/reed2001/culture-1798664
 [netflix_post]:		/netflix_culture/

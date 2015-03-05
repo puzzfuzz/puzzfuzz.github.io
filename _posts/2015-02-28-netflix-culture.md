@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Netflix Culture"
+title:  "Engineering Culture - Part 1: Netflix"
 date:   2015-02-28 16:39:30
 categories: management
 permalink: netflix_culture
 ---
 
-#Netflix Culture
+#Engineering Culture - Part 1: Netflix
 
 Way back in 2009 [Netflix][netflix_corp] published a [slide deck][netflix_deck] detailing the inner workings of their corporate culture. In it, they discuss many aspects of what it means to work at Netflix -- everything from management and organizational theory to employee mindset and compensation. I've tried to summarize some of the key thoughts from it but the entire deck is definitely worth a read.
 
