@@ -10,7 +10,7 @@ permalink: hubspot_culture
 
 In [Part 1][part_1] of my exploration of various successful software companies and their engineering and management philosophies, I reviewed a [culture deck][netflix_deck] published by [Netflix][netflix_corp] back in 2009 which gave a super in-depth view of their ethos. The deck covered everything from management theory to employee compensation. 
 
-In this post I'm going to cover a similar culture deck titled [The HubSpot Culture Code][hubspot_deck] published by [HubSpot][hubspot_corp] in 2013 which was largely inspired by Neflix's transparency in their deck. 
+In this post I'm going to cover a similar presentation titled [The HubSpot Culture Code][hubspot_deck] published by [HubSpot][hubspot_corp] in 2013. HubSpot covers a lot of the same ground as the Netflix deck, however with their own spin and voice. The commonalities between the two are clear but HubSpot's perspective adds some really interesting variety, mostly focusing on how the company's core mission statement and commitment to its people shape the culture from the inside out.
 
 ##Culture is to recruiting as product is to marketing
 
