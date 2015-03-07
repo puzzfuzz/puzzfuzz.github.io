@@ -62,12 +62,33 @@ Similar to Netflix, HubSpot sees themselves as a sports team who hires and cuts 
 
 > With great people comes great responsibility.
 
-Employees should be as successful as their company and the company should be as proud of the **people** they build as they are of the **product**. To that end, HubSpot invests heavily in personal growth by holding frequent informational sessions lead by industry experts and free books and other educational resources. Alumni are honored and regular meetup events are held where startup pitches are reviewed, advice given and general camaraderie is shared.
+Employees should be as successful as their company and the company should be as proud of the **people** they build as they are of the **product**. To that end, HubSpot invests heavily in personal growth by holding frequent informational sessions lead by industry experts and free books and other educational resources. 
 
+> If you're **just** doing your job you're **not** doing your job. 
 
+Career progress is achieved by either being a rockstar individual contributor or providing exceptional support to those who are. Alumni are honored and regular meet-up events are held where startup pitches are reviewed, advice given and general camaraderie is shared.
 
+##Try new things
 
+> We'd rather be failing frequently than never trying new things. 
 
+Being afraid to fail forces people to make **safe** choices, which inevitably pulls the company from **exceptional** to **average**. Constant change, simplification and refinement is seen as a competitive advantage allowing HubSpot to reduce complexity as the company grows. This extends beyond product to the organization as a whole.
+ 
+Process and management should be **refactored** as often as code is. Unused features and unproductive meetings should be pruned regularly so both the product and organization can bask in the clarity of simplicity. 
+
+<a id="tldr" href=""></a>
+
+##TL;DR 
+
+The **HubSpot Culture Code** is overall heavily inspired by the **Neflix Culture Deck** as they value much of the same traits in their employees and management structure. Transparency and simplicity allows great people to be exceptionally productive while an an expectation of excellence provides strict hiring guidelines and enables autonomy and trust in colleagues at all levels.
+
+- Setting a clear **mission** and having a deep commitment to **metrics** provides context for most decisions.
+- Whenever possible, **solve for the customer**.
+- **Transparency** everywhere legally possible (financials, strategy, decisions).
+- Enable **autonomy**, don't impose autocracy.
+- It's OK to be **unreasonably picky** when hiring to ensure culture stability and integrity.
+- Investing in individual **mastery** increases everyone's **market value** and keeps people happy and motiviated.
+- Constantly question the **status quo** and don't be afraid to try new things. 
 
 
 [part_1]:			/netflix_culture
