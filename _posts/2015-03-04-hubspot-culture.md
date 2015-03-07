@@ -16,7 +16,7 @@ In this post I'm going to cover a similar presentation titled [The HubSpot Cultu
 
 ##Culture is to recruiting as product is to marketing
 
-The first and foremost fact that HubSpot emphasizes is that **culture happens**. It's an inescapable fact that whether planned or not, all companies have a culture. The company has the decision whether to allow the culture to grow organically or cultivate something special. Their take? 
+The first and foremost fact that HubSpot emphasizes is that **culture happens**. It's an inescapable fact that whether planned or not, all companies have a culture. A company has the decision whether to allow the culture to grow organically or cultivate something special. Their take? 
 
 > Why not create a culture we love?
 
@@ -34,9 +34,9 @@ If there's ever a question about how to approach a problem, the answer is simply
 
 ##Transparency
 
-> Today power is gained by **sharing knowledge** not hoarding it.
+> Today, power is gained by **sharing knowledge** not hoarding it.
 
-HubSpot believes that hiding information from its employees serves no real purpose other than to give them **less context** in which to make important decisions. Being unrelentingly transparent **supports smarter behavior and better decisions**. Everything from full company financial (excluding individual compensation of course) and burn-rate to board and management meeting slide decks is openly accessible and aggressively updated on the company wiki. 
+HubSpot believes that hiding information from its employees serves no real purpose other than to give them *less context* in which to make important decisions, which doesn't help anyone. Being unrelentingly transparent **supports smarter behavior and better decisions**. Everything from full company financial (excluding individual compensation of course) and burn-rate to board and management meeting slide decks is openly accessible and aggressively updated on the company wiki. 
 
 **Strategic** topics are openly discussed with a strict **no door** policy when it comes to accessibility of people in the company. In an attempt to circumvent needless politics, most of the organization undergoes a quarterly **seating hack** where office assignments are shuffled semi-randomly. This enforces a mindset of openness and flexibility in the most physical of ways.
 
@@ -56,7 +56,7 @@ In the end, **results** are all that matters. Not hours worked, where the work w
 
 > We don't just believe in these values. **We bet on them.** We recruit, reward and release people based on these values.
 
-> Compromising on culture is mortgaging the future. It's reasonable to want to hire for skills and experience when the need for help is painfully acute. It's reasonable. But, it's also wrong. The interest rate on culture debt is crushingly high.
+> Compromising on culture is mortgaging the future. It's reasonable to want to hire for skills and experience when the need for help is painfully acute. It's reasonable. But, it's also wrong. **The interest rate on culture debt is crushingly high**.
 
 Similar to Netflix, HubSpot sees themselves as a sports team who hires and cuts to ensure they have stars in ever position. Every new hire should elevate the group and raise the average, not just be another body to delegate work to that you don't have time for.
 
@@ -64,7 +64,7 @@ Similar to Netflix, HubSpot sees themselves as a sports team who hires and cuts 
 
 > With great people comes great responsibility.
 
-Employees should be as successful as their company and the company should be as proud of the **people** they build as they are of the **product**. To that end, HubSpot invests heavily in personal growth by holding frequent informational sessions lead by industry experts and free books and other educational resources. 
+Employees should be as successful as their company and the company should be as proud of the **people** they build as they are of the **product**. To that end, HubSpot invests heavily in personal growth by hosting frequent informational presentations lead by industry experts, while also offering free books and other educational resources. 
 
 > If you're **just** doing your job you're **not** doing your job. 
 
@@ -82,7 +82,7 @@ Process and management should be **refactored** as often as code is. Unused feat
 
 ##TL;DR 
 
-The **HubSpot Culture Code** is overall heavily inspired by the **Neflix Culture Deck** as they value much of the same traits in their employees and management structure. Transparency and simplicity allows great people to be exceptionally productive while an an expectation of excellence provides strict hiring guidelines and enables autonomy and trust in colleagues at all levels.
+The **HubSpot Culture Code** is heavily inspired by the **Neflix Culture Deck** as they value much of the same traits in their employees and management structure. Some key aspects of their culture have allowed HubSpot to remain successful as they grow while also guiding employees towards a positive, effective work environment. 
 
 - Setting a clear **mission** and having a deep commitment to **metrics** provides context for most decisions.
 - Whenever possible, **solve for the customer**.
@@ -91,6 +91,10 @@ The **HubSpot Culture Code** is overall heavily inspired by the **Neflix Culture
 - It's OK to be **unreasonably picky** when hiring to ensure culture stability and integrity.
 - Investing in individual **mastery** increases everyone's **market value** and keeps people happy and motiviated.
 - Constantly question the **status quo** and don't be afraid to try new things. 
+
+
+Overall, transparency and simplicity allows great people to be exceptionally productive while an expectation of excellence provides strict hiring guidelines and enables autonomy and trust in colleagues at all levels.
+
 
 
 [part_1]:			/netflix_culture
