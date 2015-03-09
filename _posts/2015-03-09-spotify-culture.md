@@ -61,7 +61,7 @@ Alignment and autonomy may seem like different ends of a singular scale, but the
 
 Micromanagement culture with no high-level goals. "Shut up and follow orders."
 
-> Management **says**: Build a bridge because I said so.
+> Management **says**: "Build a bridge because I said so."
 
 ###High Alignment, Low Autonomy###
 
@@ -79,8 +79,8 @@ Leaders clearly communicate what problems need solving and why, but leave the im
 
 Nobody talks to anybody about anything; everyone runs around doing whatever they want.
 
-> Management **thinks**: "I sure hope somebody's working on that river problem." 
-> Management **says**: Nothing.
+> - Management **thinks**: "I sure hope somebody's working on that river problem." 
+> - Management **says**: Nothing.
 
 
 
