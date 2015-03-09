@@ -10,6 +10,8 @@ permalink: netflix_culture
 
 Way back in 2009 [Netflix][netflix_corp] published a [slide deck][netflix_deck] detailing the inner workings of their corporate culture. In it, they discuss many aspects of what it means to work at Netflix -- everything from management and organizational theory to employee mindset and compensation. I've tried to summarize some of the key thoughts from it but the entire deck is definitely worth a read.
 
+**Disclaimer:** This series is meant to be more book report than sermon. My goal with these posts is to simply distill the most important details of what a variety of companies value without adding personal commentary.
+
 <a class="tldr" href="#tldr">TL;DR</a>
 
 ##Freedom & Responsibility
